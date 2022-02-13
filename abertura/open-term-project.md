@@ -6,169 +6,121 @@
   - [2. Descrição](#_2-Descri%C3%A7%C3%A3o)
   - [3. Propósito e Justificativa](#_3-Prop%C3%B3sito-e-Justificativa)
   - [4. Objetivos](#_4-Objetivos)
-  - [5. Requisitos de Alto Nível](#_5-Requisitos-de-Alto-N%C3%ADvel)
-  - [6. Riscos](#_6-Riscos)
-  - [7. Estimativas de custos](#_7-Estimativas-de-custos)
-    - [Recursos Humanos](#Recursos-Humanos)
-    - [Aquisições](#Aquisi%C3%A7%C3%B5es)
-    - [Ferramentas](#Ferramentas)
-    - [Custo Total](#Custo-Total)
-  - [8. Partes interessadas](#_8-Partes-interessadas)
-    - [Idealizadores](#Idealizadores)
-    - [Usuários](#Usu%C3%A1rios)
-    - [Equipe](#Equipe)
-      - [Gestão do Projeto](#Gest%C3%A3o-do-Projeto)
-      - [Desenvolvimento](#Desenvolvimento)
-  - [9. Requisitos para a Aprovação](#_9-Requisitos-para-a-Aprova%C3%A7%C3%A3o)
+  - [5. Partes Interessadas](#_5-Partes-Interessadas)
+    - [5.1 Usuários](#_5.1-Usu%C3%A1rios)   
+    - [5.2 Equipes e papéis](#_5.2-Equipes-e-pap%C3%A9is)
+  - [6. Requisitos de Alto Nível](#_6-Requisitos-de-Alto-N%C3%ADvel)
+  - [7. Riscos](#_7-Riscos)
+  - [8. Requisitos para a aprovação](#_8-Requisitos-para-a-aprova%C3%A7%C3%A3o)
+  - [9. Estratégias de comunicação](#_9-Estrat%C3%Agias-de-comunica%C3%A7%C3%A3o)
+  - [10. Referências](#_9-Refer%C3%AAncias)
+  
+# Termo de Abertura do Projeto
+***
 
-## 1. Introdução 
+### Histórico de Versões
+**Data** | **Versão** | **Descrição** | **Autor(es/as)**
+--- | --- | --- | --- 
+28/01/2022 | 0.1 | Versão Inicial | Matheus Pimentel Leal, Gabriel Mariano da Silva e Guilherme Barbosa Ferreira
+31/01/2022 | 0.2 | Pequenas Correções | Gabriel Mariano da Silva
+??/??/???? | x.x | Lorem Ipsum | **A preencher.** Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
 
-As atividades financeiras, assim como as demais relações humanas com o meio foram se modificando ao longo do tempo devido às mudanças constantes na tecnologia ofertada em diferentes domínios. Em gerações anteriores vía-se a presença constante do cliente bancário nas grandes agências dos centros das cidades para resolver assuntos pertinentes aos recursos que o banco ofertava para o seu perfil. Hoje em dia, entretanto, essa prática tornou-se escassa, devido ao conceito de banco digital e uso de contas de pagamento com licenças de Sociedade de Crédito Direto, por exemplo. 
+### Siglas
+**Sigla** | **Descrição**
+--- | ---
+SIGAA | Sistema Integrado de Gestão de Atividades Acadêmicas
+INDICAA | Nome **provisório** dado ao projeto relativo aos indicadores do SIGAA
+UnB | Universidade de Brasília
+FGA | Faculdade do Gama
 
-No cenário apresentado surge a N26, um banco completamente digital cuja ideia se alastrou, positivamente, por toda a Europa e recentemente nos Estados Unidos. Por si só o seu sucesso demonstrou um aspecto importante do consumidor dessa geração : O êxtase experimentado quando há independência de uma agência física para acompanhar aspectos básicos das suas finanças e recursos, como por exemplo a lista de compras, a solicitação de crédito, entre outros. Esse banco tornou-se inspiração para empresas como o Nubank ofertarem um serviço com maior liberdade e menor buracracia aos amantes de tecnologia, o que se mostrou extremamente eficaz, ainda que como conta de pagamento. Visto o sucesso dessas iniciativas e o perfil consumidor brasileiro, a N26 decidiu vir para o Brasil portanto uma licença de Sociedade de Crédito direto. 
+## 1. Introdução
+Este documento visa informar as principais características do projeto **INDICAA** de forma concisa e clara para a leitura de todos os interessados no projeto e nas suas etapas de execução e decisão. Abaixo serão tratados os seguintes tópicos relacionados à este projeto: descrição, propósito e justificativa, objetivos, partes interessadas (usuários e envolvidos no desenvolvimento), requisitos de alto nível, análise de riscos, requisitos para a aprovação seguindo a definition of done estabelecida e estratégias de comunicação.
 
-Nesse contexto, para atender devidamente o público brasileiro, o intuito é ofertar uma experiência de crédito especial que se assemelhe ao cheque especial, respeitando a licença obtida para operacionalizar no país. Essa iniciativa provê ao usuário a possibilidade de continuar realizando compras mesmo que o seu saldo esteja zerado, uma prática não tão comum nos demais países, mas que se adequa ao perfil de consumo no Brasil. Dessa forma, esse projeto tem como objetivo auxiliar a N26 no processo de testar uma solução de oferta de crédito para a sua expansão.
+## 2. Descrição
+O projeto **INDICAA** foi proposto pela profª Carla Silva Rocha Aguiar e consiste em realizar a criação de uma aplicação para facilitar a busca por informações no site SIGAA que é utilizado por alunos e professores da UnB. As informações relacionadas à cada curso, que serão disponibilizadas são:
+* Quantidade de disciplinas
+* Quantidade de vagas ofertadas
+* Quantidade de alunos matriculados
+* Quantidade de salas disponíveis
 
-## 2. Descrição 
+## 3. Propósito e justificativa
+Tendo em vista que o contexto pandêmico trouxe uma nova forma de comunicação e interação, dificuldades de manejo das tecnologias são constantemente encontradas por seus usuários no mundo todo. A comunidade acadêmica da UnB não é exceção. Com isso, o **INDICAA** visa trazer uma forma facilitada e intuitiva de busca por informações no SIGAA.
 
-O presente projeto foi idealizado pela N26, em conjunto com a lift, como tentativa de prover novas soluções para a oferta de crédito. O principal objetivo consiste em produzir um Mínimo Produto Viável (MVP) com foco na experiência de concessão de crédito especial para o cliente brasileiro, a fim de conseguir elaborar ou captar por meio de ciclos de feedback a melhor maneira de ofertar esse serviço. O sistema contará com um conjunto de funcionalidades básicas relacionadas ao domínio, na tentativa de tornar os testes mais reais. Procura-se, dessa maneira fornecer uma interface intuitiva, amigável e que induza o cliente a usar o serviço.
+## 4. Objetivos
+O objetivo do **INDICAA** é ofertar um painel com os dados da lista de oferta de disciplinas do SIGAA dispostos de maneira intuitiva, de modo a facilitar a visualização das informações necessárias dos cursos, como a quantidade de disciplinas ofertadas, a quantidade de vagas disponíveis, a quantidade de alunos matriculados e a quantidade de salas disponíveis.
+Atualmente, a lista de ofertas do SIGAA é composta por uma grande quantidade de dados dispostos separadamente. O _software_ desenvolvido facilitaria o entendimento destes dados e auxiliaria na tomada de decisões com base nas informações disponibilizadas.
 
-## 3. Propósito e Justificativa 
-Apesar do rápido aumento de popularidade e da variedade dos serviços de bancos digitais no Brasil, ainda não há um serviço consolidado de oferta de crédito. Na Europa o N26 já possuir um serviço de oferta de crédito (overdraft), e com a sua vinda para o mercado brasileiro, será necessário adaptar esse serviço para os clientes brasileiros.  
-Como no Brasil o N26 não possui a licença de banco, esse projeto surge com o propósito de validar um mecanismo de oferta de crédito para instituições de pagamento no Brasil.
+## 5. Partes Interessadas
+### 5.1 Usuários
+O público-alvo consiste na comunidade da Universidade de Brasília, isto é, estudantes, professores e coordenadores, basicamente.
+**Usuário** | **Descrição**
+--- | ---
+Estudantes | Comunidade de discentes da UnB que buscam informações relativas às disciplinas, como a quantidade de vagas disponíveis e as respectivas salas.
+Professores | Comunidade de docentes da UnB que visa obter informações sobre as matérias ofertadas, as salas disponíveis e a quantidade de alunos matriculados em suas matérias.
+Coordenadores | Comunidade administrativa da UnB que visa, através dos dados disponibilizados dos cursos, tomar decisões que melhorem a organização destes.
+Outros | Quaisquer indivíduos que optarem por acessar dados relativos aos cursos da UnB.
 
-## 4. Objetivos 
-O projeto tem como objetivo criar um MVP para oferta de crédito que se assemelha à experiência de cheque especial, porém é realizado no contexto de contas de pagamento e cartão pré-pago. Com isso a meta desse projeto é produzir um MVP dessa solução.
+### 5.2 Equipes e papéis
+#### Definição dos papéis:
+**Usuário** | **Descrição**
+--- | ---
+_Scrum Master_ | É o responsável pela eficiência do grupo, auxiliando a todos no entendimento do _framework Scrum_ e atuando na gestão do grupo.
+_Product Owner_ | Responsável por aumentar o valor do produto a ser desenvolvido e na gestão do _Product Backlog_, comunicando com o time sobre o objetivo a ser atingido.
+Arquiteto de Software | Atua na decisão das melhores tecnologias a serem utilizadas pelo grupo durante o desenvolvimento do projeto. Atua em suporte ao DevOps.
+DevOps | Atua na configuração do ambiente de desenvolvimento e homologação do produto. Visa também automatizar processos, como os testes. Visa atuar para que o projeto forneça uma entrega contínua.
+Desenvolvedor | Atua no desenvolvimento e teste do produto, criando o _Sprint Backlog_ e adaptando seu plano de modo a atingir o objetivo definido ao final da _Sprint_.
+_Designer_ | **A preencher.** _Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat._
 
-## 5. Requisitos de Alto Nível 
- Os requisitos gerais de alto nível estão descritos abaixo: 
+#### Grupo 1
+**Usuário** | **Descrição**
+--- | ---
+_Scrum Master_ | Laura Pinos de Oliveira
+_Product Owner_ | Caio César Oliveira
+Arquiteto de Software | Lucas Henrique Lima de Queiroz
+DevOps | Vitor Eduardo Kühl Rodrigues
+Desenvolvedor | Matheus Costa Gomes
+_Designer_ | Letícia Assunção Aires Moreira
 
-* Viabilizar cheque especial em estrutura de conta de clientes 100% vinculadas ao Banco Central.
-* Criar estrutura de crédito apropriada para as condições da licença SCD.
-* Ofertar produto através de processo simples de onboarding e de concessão de crédito.
+#### Grupo 3
+**Usuário** | **Descrição**
+--- | ---
+_Scrum Master_ | Matheus Pimentel Leal
+_Product Owner_ | Adne Moretti Moreira
+Arquiteto de Software | Guilherme Barbosa Ferreira
+DevOps | Gabriel Mariano da Silva
+Desenvolvedor | Liander Medeiros Alves <br />Gabriel Moretti de Souza
 
-## 6. Riscos 
+#### Grupo 4
+**Usuário** | **Descrição**
+--- | ---
+_Scrum Master_ | Mateus Vinícius Ferreira Franco
+_Product Owner_ | Pedro Augusto Santos Siqueira
+Desenvolvedor | Guilherme dos Santos Araújo <br  /> Thiago Oliveira Cunha <br  /> João Paulo da Silva Freitas <br  /> Arthur Taylor de Jesus Popov <br  /> Thiago Vivian Bastos
 
-Para um melhor gerenciamento de projeto, foram levantados alguns riscos relativos à sua execução. Esse levantamento permitirá que a equipe trate, previna e mitigue esses riscos ao longo do projeto para que estes não causem grandes impactos no seu desenvolvimento.
+## 6. Requisitos de alto nível
+**A preencher.**
+_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum._
 
-* Indefinição de escopo
-* Projeto de domínio complexo
-* Desconhecimento de conceitos financeiros
-* Indisponibilidade dos membros
-* Falta de integração entre a equipe
-* Baixa produtividade dos integrantes da equipe
-* Descomprometimento da equipe
-* Equipe de MDS não seguir orientações de EPS
-* Má gerência de EPS
-* Não entrega das atividades planejadas
-* Defeito de algum equipamento
-* Falta de conhecimento/experiência com as tecnologias escolhidas
-* Desavenças na equipe
-* Problemas relacionados ao ambiente de desenvolvimento
-* Falhas na comunicação entre os membros da equipe
-* Trancamento da matéria por parte dos membros
-* Planejamento de entregas não serem assertivos
+## 7. Riscos
+**Risco** | **Prevenção** | **Ação**
+:---: | :---: | :---:
+Algum membro contrair COVID-19 | Estar previamente organizado entre os membros do grupo, para que alguém consiga assumir a função do membro em questão. | Organização com a equipe.
+Falta de comunicação | Estabelecer canais de comunicação fixos, além de encontros entre as semanas. | Pontuação clara de objetivos durante as sprints e torná-los de fácil acesso para a equipe.
+Desistência de algum membro do projeto | Estimular a participação do membro no projeto. | Não sobrecarregar nenhum membro e auxiliar em suas devidas tarefas.
+Dificuldade ao adaptar às tecnologias escolhidas | Compartilhamento de links ou aulas para estudo e aprofundamento da tecnologia. | Procurar sobre as tecnologias e incentivar o estudo. 
+Mudanças no escopo do projeto | Realizar _reviews_ do projeto e validar se ocorre como o planejado. | Realizar reuniões claras que definam as pendências do projeto.
 
-É responsabilidade do Tech Leader monitorar esses riscos, através de um indicador pertinente, como o burndown de riscos, a fim de mitigá-los. 
+## 8. Requisitos para a aprovação
+* Validação pela professora Dr. Carla Rocha Aguiar.
+* Atender as expectativas prévias do projeto.
 
+## 9. Estratégias de comunicação
+Para comunicação interna foram utilizadas as seguintes ferramentas: **Discord** e **Telegram**.<br />
+Para comunicação com os demais grupos utilizamos, além das ferramentas citadas anteriormente, o **GitHub**.
 
-## 7. Estimativas de custos  
-A estimativa de custos tem como objetivo definir os recursos necessários para a execução do projeto. Estes recursos estão relacionados à pessoal, aquisições, infraestrutura, treinamentos, se necessário e implantação do produto ou serviço. As tabelas abaixo mostram a estimativa dos custos mapeados. 
-
-
-
-### Recursos Humanos
-
-| Cargo | Quantidade | Salário Mensal | Salário Total |
-| - | -  | - | - | 
-| Tech Leader (Scrum Master) | 1  | R$ 8.038,00 | R$ 32.152,00 |
-| Product Owner | 1  | R$ 7.130,00 | R$ 28.520,00 |
-| Arquiteto | 1  | R$ 8.821,00 | R$35.284,00 | 
-| DevOps | 1  | R$ 9.825,00 | R$39.300,00 |
-| Desenvolvedores Junior Full Stack | 6  | R$2.619,00 | R$62.856,00 |
-|**TOTAL**|||**R$198.112,00**|
-
-**Obs.:** Considerando a duração do projeto de 4 meses. Fonte de pesquisa dos salários: https://www.glassdoor.com.br/
-
-### Aquisições
-
-| Recurso | Quantidade | Finalidade | Custo Uniário | Custo Total |
-| - | -  | - | - | - | 
-| Conta Play Store | 1  | Deploy App | R$100,00 |  R$100,00 |
-| Máquina Digital Oceans | 4 (meses)  | Deploy API |  R$50,00 | R$200,00 |
-| Notebook | 10  | Desenvolvimento do projeto | R$3.500,00 | R$35.000,00
-| Internet | R$129,99  | Desenvolvimento do projeto | 10 PC's X 4 meses | R$4.199,60
-| Energia | R$0,557/kWh  | Desenvolvimento do projeto | 624 kw/h | R$ 347,57
-|**TOTAL**||||**R$40.847,17**|
-
-Segundo o Ranking das Tarifas, o valor do kWh equivale a $0,557. Consulta realizada em http://www.aneel.gov.br/ranking-das-tarifas no dia 12/09/2019.
-
-
-### Ferramentas
-| Ferramenta | Finalidade | Custo |
-| - | -  | - |
-| Telegram | Comunicação  | R$0,00 |
-| GitHub | Repositório do projeto  | R$0,00 |
-| Android Studio | Desenvolvimento  | R$0,00 |
-| Google Drive | Armazenamento e compartilhamento de documentos  | R$0,00 |
-| Visual Studio | Editor de Texto  | R$0,00 |
-|Docker, Travis, Code Climate, Github| Ferramentas DevOps| R$0,00|
-|**TOTAL**||**R$0,00**|
-
-### Custo Total
-| Recurso | Custo | 
-| - | -  | 
-| Recursos Humanos | R$198.112,00 | 
-| Aquisições | R$40.847,17 | 
-| Ferramentas | R$0,00 | 
-|**TOTAL**|**R$238.959,17**|
-
-## 8. Partes interessadas 
-
-### Idealizadores
-
-Como principal idealizadora do projeto posiciona-se a N26, interessada principalmente em, por meio do sistema a ser desenvolvido, testar experiência do usuário acerca da oferta de crédito.
-
-A N26 é uma empresa alemã que presta serviços de banco online em boa parte da Europa. No Brasil, ela chegará para oferecer serviços de conta digital, atuando em todo o país.
-
-### Usuários
-
-Os usuários do sistema serão os prováveis clientes da N26 no Brasil. Especificamente pessoas com predisposição à abertura de contas digitais e à utilização do crédito especial. 
-
-### Equipe
-
-A equipe responsável pela realização do projeto está apresentada na tabela seguinte:
-
-#### Gestão do Projeto
-
-Nome | Descrição
--|-
-Adrianne Souza | PO
-Andrew Lucas | DevOps
-Maria Luiza | Scrum Master
-Natália Rodrigues | Arquiteta
-
-#### Desenvolvimento 
-Nome | Descrição
--|-
-Erick Reis | Desenvolvedor
-Gabriel Ramalho | Desenvolvedor
-Isabella Carneiro | Desenvolvedora
-João Gabriel | Desenvolvedor
-João Paulo | Desenvolvedor
-Luiza Cezário | Desenvolvedora
-
-
-## 9. Requisitos para a Aprovação 
-
-O sistema deverá apresentar as funcionalidades pertinentes à oferta de crédito definidas no escopo. Ressalvas são feitas quanto à operação funcional do sistema, não necessariamente oferecendo suporte a todo o fluxo de utilização do crédito especial, a saber : Processamento da solicitação do crédito.
-
-# Histórico de Versões
-
-| Data | Versão | Autor(a) | Descrição |
-| - | - | - | - |
-| 10/09/2019 | 0.1 | Maria Luiza | Início do Termo de Abertura do Projeto |
-| 12/09/2019 | 0.2 | Maria Luiza | Estimativas de custos, Requisitos de alto nível e riscos |
-| 12/09/2019 | 0.3 | Natália Rodrigues | Partes Interessadas e Requisitos para a Aprovação |
-| 13/09/2019 | 0.4 | Adrianne Alves | Introdução e Descrição |
-| 14/09/2019 | 0.5 | Andrew Lucas | Propósito e Justificativa  e objetivo |
+## 10. Referências
+UNIVERSIDADE DE BRASÍLIA (Brasil). **CheeryUP. Termo de abertura do projeto.** [S. l.], 2021. Disponível em: <https://fga-eps-mds.github.io/2020.2-CheeryUP/#/./wiki/TAP?id=5---riscos>. Acesso em: 28 jan. 2022. <br />
+UNIVERSIDADE DE BRASÍLIA (Brasil). **Acácia. Termo de abertura do projeto.** [S. l.], 2019. Disponível em: <https://fga-eps-mds.github.io/2019.2-Acacia/#/project_charter>. Acesso em: 28 jan. 2022. <br />
+UNIVERSIDADE DE BRASÍLIA (Brasil). **AlligaBot. Termo de abertura do projeto.** [S. l.], 2021. Disponível em: <https://fga-eps-mds.github.io/2021.1-AlligaBot/2021/08/02/termo-de-abertura-do-projeto/>. Acesso em: 28 jan. 2022. <br />
+SCHWABER, Ken; SUTHERLAND, Jeff. **O Guia do Scrum**. [S. l.], 2020. Disponível em: <https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Portuguese-European.pdf>. Acesso em: 28 jan. 2022. <br />
+MORETTI, Gabriel. **Issue #6 - Pesquisas - Documentação**. [S. l.], 2022. Disponível em: <https://github.com/fga-eps-mds/Projeto01/issues/6#issuecomment-1022324492>. Acesso em: 28 jan. 2022. <br />
