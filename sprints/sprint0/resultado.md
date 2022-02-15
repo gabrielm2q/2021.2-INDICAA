@@ -60,12 +60,3 @@ Zenhub não criado no momento dessa sprint
 ## 1.6 Quadro de conhecimento
 ![](../../images/metrics_agile/quadro_conhecimento_sprint0.png)
 
-
-# 2. Visão do Tech Leader
-Essa sprint não tem muito como avaliar, devido a falta de referência com outras iterações e a falta de escopo de projeto.
-
-Foram planejados treinamentos para MDS de práticas ágeis e conteúdos técnicos, a fim de expandir o conhecimento da equipe de desenvolvimento. Foi feito um quadro de conhecimento no momento em que a equipe foi decidida, o que evidenciou a pouca experiência da equipe de MDS.  
-
-O objetivo da sprint foi concluído com sucesso, onde foi passado todo o conhecimento básico e o contexto da disciplina para a equipe de MDS para dar início ao projeto. 
-
-O problema se encontrou no fato de não termos escopo do projeto definido, o que dificultou o andamento do mesmo. Com isso, as práticas ágeis ficaram comprometidas nessa sprint. 
