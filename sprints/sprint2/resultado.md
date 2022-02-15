@@ -4,7 +4,7 @@
 
 ### 1.1 Fechamento da Sprint 
 
-**Pontos planejados: 23 pontos**
+**Pontos planejados: 22 pontos**
 <br>
 **Pontos concluídos: 17 pontos**
 <br>
