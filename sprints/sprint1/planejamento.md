@@ -1,22 +1,43 @@
 
 # Planejamento SPRINT 1
 
-**Data de início**: 01/09/2019 <br/>
-**Data de fim**: 07/09/2019 <br/>
+**Data de início**: 25/01/2022 <br/>
+**Data de fim**: 01/02/2022 <br/>
 **Duração**: 1 semana <br/>
-**Pontuação**: 30 pontos
+**Pontuação**: 23 pontos
 
 ## 1. Objetivo
 
-Definir e desenvolver principais documentos necessários para o projeto. **A pontuação utilizada será baseada na escala Fibonacci ( 1, 2, 3, 5, 8, 13)**
+Divisão das tarefas, escolha das funções e inicio da produção da documentação. **A pontuação utilizada será baseada na escala Fibonacci ( 1, 2, 3, 5, 8, 13)**
 
 
 ## 2. Papéis 
 
-* **Scrum Master:** Maria Luiza
-* **Product Owner:** Adrianne Alves
-* **Devops:** Andrew Lucas
-* **Architect:** Natália Maria
+#### Grupo 1
+**Usuário** | **Descrição**
+--- | ---
+_Scrum Master_ | Laura Pinos de Oliveira
+_Product Owner_ | Caio César Oliveira
+Arquiteto de Software | Lucas Henrique Lima de Queiroz
+DevOps | Vitor Eduardo Kühl Rodrigues
+Desenvolvedor | Matheus Costa Gomes
+_Designer_ | Letícia Assunção Aires Moreira
+
+#### Grupo 3
+**Usuário** | **Descrição**
+--- | ---
+_Scrum Master_ | Matheus Pimentel Leal
+_Product Owner_ | Adne Moretti Moreira
+Arquiteto de Software | Guilherme Barbosa Ferreira
+DevOps | Gabriel Mariano da Silva
+Desenvolvedor | Liander Medeiros Alves <br />Gabriel Moretti de Souza
+
+#### Grupo 4
+**Usuário** | **Descrição**
+--- | ---
+_Scrum Master_ | Mateus Vinícius Ferreira Franco
+_Product Owner_ | Pedro Augusto Santos Siqueira
+Desenvolvedor | Guilherme dos Santos Araújo <br  /> Thiago Oliveira Cunha <br  /> João Paulo da Silva Freitas <br  /> Arthur Taylor de Jesus Popov <br  /> Thiago Vivian Bastos
 
 
 ## 3. Backlog da Sprint 1
@@ -24,13 +45,10 @@ Definir e desenvolver principais documentos necessários para o projeto. **A pon
 ### Overview
 | Atividade | Pontuação | Responsável | Dívida |
 | -------- | :----: | :----: | :----: |
-| [D01 - Fazer Documento de Visão](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/10) | 5 | Isabella, Luiza, João Gabriel, Gabriel, João Paulo e Erick |Não|
-| [D02 - Fazer Estrutura analítica de projetos](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/8) | 5 | Adrianne, Andrew, Maria Luiza, Natália |Não|
-| [D03 - Fazer Termo de abertura de projetos](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/7) | 5 | Adrianne, Andrew, Maria Luiza, Natália |Não|
-| [D04 - Fazer Documento de Arquitetura](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/11) | 8 | Isabella, Luiza, João Gabriel, Gabriel, João Paulo e Erick |Não|
-| [D05 - Fazer Protótipo de Baixa Fidelidade](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/12) | 3 | Isabella, Luiza, João Gabriel, Gabriel, João Paulo e Erick |Não|
-| [S11 - Conceitos Financeiros](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/16) | 3 | Todos do grupo (MDS e EPS) |Não|
-| [D06 - Criar template de issue](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/17) | 1 | Adrianne |Não|
+| [D01 - Pesquisa de Tecnologias ](https://github.com/fga-eps-mds/Projeto01/issues/7) | 5 | Grupo 3 |Não|
+| [D02 - Fazer Documento de visão](https://github.com/fga-eps-mds/Projeto01/issues/8) | 5 | Grupo 1 |Não|
+| [D03 - Fazer Termo de abertura de projetos](https://github.com/fga-eps-mds/Projeto01/issues/10) | 5 | Grupo 3 |Não|
+| [D04 - Fazer Documento de Arquitetura](https://github.com/fga-eps-mds/Projeto01/issues/11) | 8 | Grupo 4 |Não|
 
 
 ## 4. Pareamento
