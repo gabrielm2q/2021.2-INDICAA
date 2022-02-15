@@ -4,43 +4,56 @@
 
 ### 1.1 Fechamento da Sprint 
 
-**Pontos planejados: 24 pontos**
+**Pontos planejados: 15 pontos**
 <br>
-**Pontos concluídos: 24 pontos**
+**Pontos concluídos: 15 pontos**
 
 | Atividade | Situação |
 | --------  | :----:   |
-| [S01](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/1)       |Concluída | 
-| [S02](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/2)       |Concluída | 
-| [S03](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/3)       |Concluída | 
-| [S04](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/9)       |Concluída | 
-| [S05](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/5)       |Concluída |
-| [S06](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/6)       |Concluída |
-| [S07](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/4)       |Concluída | 
-| [S08](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/13)       |Concluída | 
-| [S09](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/14)       |Concluída | 
-| [S10](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/15)       |Concluída |
+| [S01](https://github.com/fga-eps-mds/Projeto01/issues/1)      |Concluída | 
+| [S05](https://github.com/fga-eps-mds/Projeto01/issues/5)      |Concluída | 
+| [S06](https://github.com/fga-eps-mds/Projeto01/issues/6)      |Concluída | 
 
 
 ## 1.2 Burndown
-![](../../images/metrics_agile/burndown_sprint0.png)
+Zenhub não criado no momento dessa sprint
 
 ## 1.3 Velocity   
-![](../../images/metrics_agile/velocity_sprint0.png)
+Zenhub não criado no momento dessa sprint
 
 ## 1.4 Retrospectiva 
+
+### Grupo 1
+
 | Membro | Pontos Positivos | Pontos Negativos | Sugestão de Melhoria | Pontuação das Histórias |
 | --------  | :----:   | :----:   | :----:   | :----:   |
 | Adrianne | EPS conseguiu dar treinamentos  | Não tínhamos tema e estávamos perdidos com relação ao escopo | Não se aplica | OK |
 | Andrew | A equipe estava presente nos treinamentos | Não ter uma tecnologia definida o que atrasou os estudos | Não se aplica | OK |
 | Maria Luiza | Definição das equipes | Não ter tema definido e nem tecnologia | Não se aplica | OK |
-| Natália | Conseguiu mistrar os treinamentos e MDs estava presente. Treinamentos condizente com o escopo da disciplina | Duração da sprint e falta de tema. EPS e MDS perdidos.| Não se aplica | OK |
 | Isabella | Treinamentos produtivos | Perdida em relação a disciplina | Não se aplica | OK |
 | Luiza | Conseguir um grupo de EPS, treinamentos produtivos | Demora na definição de tema, o que causou o atraso, não gostei do BOT do telegram da Daily| Não se aplica | OK |
-| Gabriel | Treinamentos condizentes | Muita coisa para estudar, perdido mesmo com os treinamentos | Não se aplica | OK |
-| Erick | | | | |
-| João Gabriel | Treinamentos condizentes | Demora para definir o tema | Não se aplica | OK |
-| João Paulo | Treinamentos e definições das reuniões | Muita informação em pouco tempo | Não se aplica | OK |
+
+### Grupo 3
+
+| Membro | Pontos Positivos | Pontos Negativos | Sugestão de Melhoria | Pontuação das Histórias |
+| --------  | :----:   | :----:   | :----:   | :----:   |
+| Adrianne | EPS conseguiu dar treinamentos  | Não tínhamos tema e estávamos perdidos com relação ao escopo | Não se aplica | OK |
+| Andrew | A equipe estava presente nos treinamentos | Não ter uma tecnologia definida o que atrasou os estudos | Não se aplica | OK |
+| Maria Luiza | Definição das equipes | Não ter tema definido e nem tecnologia | Não se aplica | OK |
+| Isabella | Treinamentos produtivos | Perdida em relação a disciplina | Não se aplica | OK |
+| Luiza | Conseguir um grupo de EPS, treinamentos produtivos | Demora na definição de tema, o que causou o atraso, não gostei do BOT do telegram da Daily| Não se aplica | OK |
+
+### Grupo 4
+
+| Membro | Pontos Positivos | Pontos Negativos | Sugestão de Melhoria | Pontuação das Histórias |
+| --------  | :----:   | :----:   | :----:   | :----:   |
+| Guilherme S. | Boa apresentação da matéria  | Não tínhamos tema e estávamos perdidos com relação ao escopo e ferramentas | Não se aplica | OK |
+| Arthur T. | Primeiro contato com projeto de software | Grupo perdido em relação ao escopo | Não se aplica | OK |
+| Thiago O. | Primeiro contato com projeto de software | Falta de dedicação | Melhor disciplina | OK |
+| Thiago V. | Apresentação dos membros do grupo | Falta de tema e grupo perdido | Não se aplica | OK |
+| Matheus F. | Oportunidade de aprendizado | Dificuldade de organização | Não se aplica | OK |
+| Pedro A. | Primeiro contato com projeto de software | Falta de tema e organização | Não se aplica | OK |
+| João P. | Contato com a disciplina de MDS | Falta de competências e organização | Não se aplica | OK |
 
 
 
