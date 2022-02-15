@@ -50,7 +50,3 @@ Desenvolvedor | Guilherme dos Santos Araújo <br  /> Thiago Oliveira Cunha <br  
 | [D03 - Fazer Termo de abertura de projetos](https://github.com/fga-eps-mds/Projeto01/issues/10) | 5 | Grupo 3 |Não|
 | [D04 - Fazer Documento de Arquitetura](https://github.com/fga-eps-mds/Projeto01/issues/11) | 8 | Grupo 4 |Não|
 
-
-## 4. Pareamento
-![](../../images/metrics_agile/pareamento_sprint1.png)
-
