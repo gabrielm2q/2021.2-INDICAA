@@ -4,45 +4,61 @@
 
 ### 1.1 Fechamento da Sprint 
 
-**Pontos planejados: 30 pontos**
+**Pontos planejados: 25 pontos**
 <br>
-**Pontos concluídos: 12 pontos**
+**Pontos concluídos: 25 pontos**
 <br>
-**Dívida para a próxima Sprint: 15 pontos**
+**Dívida para a próxima Sprint: 0 pontos**
 <br>
-**Pontos Cancelados: 3 pontos**
+**Pontos Cancelados: 0 pontos**
 
 | Atividade | Situação |
 | --------  | :----:   |
-|[D01 - Fazer Documento de Visão](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/10)| Dívida Técnica | 
-|[D02 - Fazer Estrutura analítica de projetos](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/8)| Dívida Técnica | 
-|[D03 - Fazer Termo de abertura de projetos](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/7)| Dívida Técnica | 
-|[D05 - Fazer Protótipo de Baixa Fidelidade](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/12)| Cancelada | 
-|[D04 - Fazer Documento de Arquitetura](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/11)| Concluída | 
-|[S11 - Conceitos Financeiros](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/16)| Concluída | 
-| [D06 - Criar template de issue](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/17) | Concluída |
+| [D01 - Pesquisa de Tecnologias ](https://github.com/fga-eps-mds/Projeto01/issues/7) | Concluida |
+| [D02 - Fazer Documento de visão](https://github.com/fga-eps-mds/Projeto01/issues/8) | Concluida |
+| [D03 - Fazer Termo de abertura de projetos](https://github.com/fga-eps-mds/Projeto01/issues/10) | Concluida |
+| [D04 - Fazer Documento de Arquitetura](https://github.com/fga-eps-mds/Projeto01/issues/11) | Concluida |
 
 
 ## 1.2 Burndown
-![](../../images/metrics_agile/burndown_sprint1.png)
+Zenhub não criado no momento dessa sprint
 
-## 1.3 Velocity
-![](../../images/metrics_agile/velocity_sprit1.png)
+## 1.3 Velocity   
+Zenhub não criado no momento dessa sprint
 
 ## 1.4 Retrospectiva 
+
+### Grupo 1
+
 | Membro | Pontos Positivos | Pontos Negativos | Sugestão de Melhoria | Pontuação das Histórias |
 | --------  | :----:   | :----:   | :----:   | :----:   |
-| Adrianne | Finalização do escopo do projeto, melhoria da comunicação | Projeto atrasado, não conseguir o treinamento sobre meios de pagamento, muitas dívidas | Organização da equipe de MDS, melhorar a comunicação | Não se aplica |
-| Andrew | Percepção que não precisa esperar o cliente, determinar o escopo do projeto | Demorou a percepção de que não precisa do cliente, planejamento errado | Planejar melhor e melhorar a comunicação | Não se aplica |
-| Maria Luiza | Determinar o escopo do projeto, ambientação ao ritmo da disciplina | Atraso do projeto por conta da dependência do cliente e falha na comunicação | Melhorar comunicação e planejar melhor as atividades | Não se aplica |
-| Natália | Percepção da não dependência do cliente, MDS está disposto a trabalhar | Demora da percepção da dependência do cliente e falha na comunicação | Melhorar a comunição e garantir o entendimento das atividades por parte de MDS | Não se aplica |
-| Isabella | Cumprimento da divisão da tarefa e  melhora na comunicação | Desconhecimento do escopo do projeto | Planejar melhor e determinar os prazos |Não se aplica |
-| Luiza | Percepção da independência do projeto e a equipe de MDS começou a trabalhar | Falta de definição completa do escopo, muitas dúvidas por parte do escopo | Definição mais clara do escopo e melhor divisão das tarefas | Não se aplica |
-| Gabriel | Melhora da comunicação, divisão do documento de arquitetura | Indefinição do escopo, dificultando a execução das atividades | Melhorar a comunicação e definição de atividades | Não se aplica |
-| Erick | - | - | - | - |
-| João Gabriel | Organização das tarefas e definição do escopo | Confusão em relação ao escopo e a realização das atividades | Agilizar na distribuição das atividades | Não se aplica |
-| João Paulo | Divisão das atribuições e a definição do escopo | Não entendimento das atividades e falha na comunicação | Melhora da comunicação entre MDS e EPS e definir melhor as atividades | Não se aplica |
+| Adrianne | EPS conseguiu dar treinamentos  | Não tínhamos tema e estávamos perdidos com relação ao escopo | Não se aplica | OK |
+| Andrew | A equipe estava presente nos treinamentos | Não ter uma tecnologia definida o que atrasou os estudos | Não se aplica | OK |
+| Maria Luiza | Definição das equipes | Não ter tema definido e nem tecnologia | Não se aplica | OK |
+| Isabella | Treinamentos produtivos | Perdida em relação a disciplina | Não se aplica | OK |
+| Luiza | Conseguir um grupo de EPS, treinamentos produtivos | Demora na definição de tema, o que causou o atraso, não gostei do BOT do telegram da Daily| Não se aplica | OK |
 
+### Grupo 3
+
+| Membro | Pontos Positivos | Pontos Negativos | Sugestão de Melhoria | Pontuação das Histórias |
+| --------  | :----:   | :----:   | :----:   | :----:   |
+| Adrianne | EPS conseguiu dar treinamentos  | Não tínhamos tema e estávamos perdidos com relação ao escopo | Não se aplica | OK |
+| Andrew | A equipe estava presente nos treinamentos | Não ter uma tecnologia definida o que atrasou os estudos | Não se aplica | OK |
+| Maria Luiza | Definição das equipes | Não ter tema definido e nem tecnologia | Não se aplica | OK |
+| Isabella | Treinamentos produtivos | Perdida em relação a disciplina | Não se aplica | OK |
+| Luiza | Conseguir um grupo de EPS, treinamentos produtivos | Demora na definição de tema, o que causou o atraso, não gostei do BOT do telegram da Daily| Não se aplica | OK |
+
+### Grupo 4
+
+| Membro | Pontos Positivos | Pontos Negativos | Sugestão de Melhoria | Pontuação das Histórias |
+| --------  | :----:   | :----:   | :----:   | :----:   |
+| Guilherme S. | Andamento do projeto, melhor noção do escopo | Mal organizado e falha no uso do git| Realização de treinamentos git | OK |
+| Arthur T. | Clareza nos objetivos do tema | Comunicação entre os grupos falha | Organizar mais reuniões | OK |
+| Thiago O. | Melhora na organização | Comunicação entre os grupos falha | Maior utilização das ferramentas de comunicação | OK |
+| Thiago V. | Entendimento do andamento da matéria | Dificuldade de divisão das issue | Dedicar mais tempo para a matéria | OK |
+| Matheus F. |  |  |  | OK |
+| Pedro A. | Melhor entendimento do projeto | Falta de colaboração entre os grupos | Melhorar a comunicação | OK |
+| João P. |  |  |  | OK |
 
 
 ## 1.6 Quadro de conhecimento
