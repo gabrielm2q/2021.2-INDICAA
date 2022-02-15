@@ -14,7 +14,6 @@
 
 | Atividade | Situação |
 | --------  | :----:   |
-
 | [T01 - Pesquisa Front-end](https://github.com/fga-eps-mds/Projeto01/issues/13) | Concluído | 
 | [T02 - Pesquisa - Back-end](https://github.com/fga-eps-mds/Projeto01/issues/14) | Concluído  |
 | [T03 - Inicio do Documento de EAP](https://github.com/fga-eps-mds/Projeto01/issues/15) | Concluído |
