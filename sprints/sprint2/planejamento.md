@@ -1,21 +1,44 @@
 # Planejamento SPRINT 2
 
-**Data de início**: 08/09/2019 <br/>
-**Data de fim**: 14/09/2019 <br/>
+**Data de início**: 01/02/2022 <br/>
+**Data de fim**: 08/02/2022 <br/>
 **Duração**: 1 semana <br/>
-**Pontuação**: 36 pontos 
+**Pontuação**: 22 pontos 
 
 ## 1. Objetivo
 
-Fazer principais documentos que ficaram de dívida técnica da sprint passada e começar a desenvolver a aplicação com base nas histórias de usuário criadas pela Product Owner. **A pontuação utilizada será baseada na escala Fibonacci ( 1, 2, 3, 5, 8, 13)**
+Definição da divisão de funcionalidades, inicio da Pesquisa dos Requisitos, inicio dos treinamentos de nivelação. **A pontuação utilizada será baseada na escala Fibonacci ( 1, 2, 3, 5, 8, 13)**
 
 
 ## 2. Papéis 
 
-* **Scrum Master:** Maria Luiza
-* **Product Owner:** Adrianne Alves
-* **Devops:** Andrew Lucas
-* **Architect:** Natália Maria
+
+#### Grupo 1
+**Usuário** | **Descrição**
+--- | ---
+_Scrum Master_ | Laura Pinos de Oliveira
+_Product Owner_ | Caio César Oliveira
+Arquiteto de Software | Lucas Henrique Lima de Queiroz
+DevOps | Vitor Eduardo Kühl Rodrigues
+Desenvolvedor | Matheus Costa Gomes
+_Designer_ | Letícia Assunção Aires Moreira
+
+#### Grupo 3
+**Usuário** | **Descrição**
+--- | ---
+_Scrum Master_ | Matheus Pimentel Leal
+_Product Owner_ | Adne Moretti Moreira
+Arquiteto de Software | Guilherme Barbosa Ferreira
+DevOps | Gabriel Mariano da Silva
+Desenvolvedor | Liander Medeiros Alves <br />Gabriel Moretti de Souza
+
+#### Grupo 4
+**Usuário** | **Descrição**
+--- | ---
+_Scrum Master_ | Guilherme dos Santos Araujo
+_Product Owner_ | Pedro Augusto Santos Siqueira
+Arquiteto de Software | Thiago Oliveira Cunha
+Desenvolvedor | Mateus Vinícius Ferreira Franco <br  />  João Paulo da Silva Freitas <br  /> Arthur Taylor de Jesus Popov <br  /> Thiago Vivian Bastos
 
 
 ## 3. Backlog da Sprint 2
@@ -23,14 +46,8 @@ Fazer principais documentos que ficaram de dívida técnica da sprint passada e 
 ### Overview
 | Atividade | Pontuação | Responsável | Dívida |
 | -------- | :----: | :----: | :----: |
-| [D01 - Fazer Documento de Visão](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/10) | 5 | Isabella, Luiza, João Gabriel, Gabriel, João Paulo e Erick |Sim|
-| [D02 - Fazer Estrutura analítica de projetos](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/8) | 5 | Adrianne, Andrew, Maria Luiza, Natália |Sim|
-| [D03 - Fazer Termo de abertura de projetos](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/7) | 5 | Adrianne, Andrew, Maria Luiza, Natália |Sim|
-| [D10 - Refatorar Documento de Arquitetura](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/28) | 5 | Isabella, Luiza, João Gabriel, Gabriel, João Paulo e Erick |Sim|
-| [US05 - Ativar crédito especial](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/23) | 8 | Isabella, João Gabriel, Gabriel |Não|
-| [US06 - Acompanhar limite de crédito](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/24) | 5 | Luiza, Erick, João Paulo  |Não|
-| [D11 - Delinear entidades do projeto](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/29) | 3 | Natália e Adrianne  |Não|
-
-
-## 4. Pareamento
-![](../../images/metrics_agile/pareamento_sprint2.png)
+| [T01 - Pesquisa Front-end](https://github.com/fga-eps-mds/Projeto01/issues/13) | 5 | Todos | Não | 
+| [T02 - Pesquisa - Back-end](https://github.com/fga-eps-mds/Projeto01/issues/14) | 5 | Todos | Não  |
+| [T03 - Inicio do Documento de EAP](https://github.com/fga-eps-mds/Projeto01/issues/15) | 2 | Matheus Pimentel | Não |
+| [T04 - Organização do Zenhub](https://github.com/fga-eps-mds/Projeto01/issues/16) | 5 | Grupo 3 | Não |
+| [T05 - Criar Documento de Requisitos Funcionais](https://github.com/fga-eps-mds/Projeto01/issues/17) | 5 | POs | Não | 
