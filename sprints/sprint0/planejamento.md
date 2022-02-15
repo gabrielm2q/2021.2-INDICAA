@@ -1,7 +1,7 @@
 # Planejamento SPRINT 0
 
-**Data de início**: 18/08/2019 <br/>
-**Data de fim**: 25/08/2019 <br/>
+**Data de início**: 18/01/2022 <br/>
+**Data de fim**: 25/01/2022 <br/>
 **Duração**: 1 semana <br/>
 **Pontuação**: 15 pontos
 
