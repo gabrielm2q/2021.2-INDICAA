@@ -4,42 +4,62 @@
 
 ### 1.1 Fechamento da Sprint 
 
-**Pontos planejados: 36 pontos**
+**Pontos planejados: 23 pontos**
 <br>
-**Pontos concluídos: 36 pontos**
+**Pontos concluídos: 17 pontos**
 <br>
+**Dívida para a próxima Sprint: 5 pontos**
+<br>
+**Pontos Cancelados: 0 pontos**
 
 | Atividade | Situação |
 | --------  | :----:   |
-| [D01 - Fazer Documento de Visão](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/10) | Concluído | 
-| [D02 - Fazer Estrutura analítica de projetos](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/8) | Concluído | 
-| [D03 - Fazer Termo de abertura de projetos](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/7) | Concluído  |
-| [D10 - Refatorar Documento de Arquitetura](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/28) | Concluído |
-| [US05 - Ativar crédito especial](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/23) | Concluído |
-| [US06 - Acompanhar limite de crédito](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/24) | Concluído |
-| [D11 - Delinear entidades do projeto](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/29) | Concluído |
 
+| [T01 - Pesquisa Front-end](https://github.com/fga-eps-mds/Projeto01/issues/13) | Concluído | 
+| [T02 - Pesquisa - Back-end](https://github.com/fga-eps-mds/Projeto01/issues/14) | Concluído  |
+| [T03 - Inicio do Documento de EAP](https://github.com/fga-eps-mds/Projeto01/issues/15) | Concluído |
+| [T04 - Organização do Zenhub](https://github.com/fga-eps-mds/Projeto01/issues/16) | Concluído |
+| [T05 - Criar Documento de Requisitos Funcionais](https://github.com/fga-eps-mds/Projeto01/issues/17) | Atrasado | 
+ 
 
 ## 1.2 Burndown
-![](../../images/metrics_agile/burndown_sprint2.png)
+Zenhub não criado no momento dessa sprint
 
 ## 1.3 Velocity   
-![](../../images/metrics_agile/velocity_sprint2.png)
+Zenhub não criado no momento dessa sprint
 
 ## 1.4 Retrospectiva 
+### Grupo 1
+
 | Membro | Pontos Positivos | Pontos Negativos | Sugestão de Melhoria | Pontuação das Histórias |
 | --------  | :----:   | :----:   | :----:   | :----:   |
-| Adrianne | Adiantar documentação, escopo bem definido | Desespero, comunicação extremamente ruim, identificar problemas de gerenciamento da equipe de EPS | Tornar a reunião mais agradável, aumentar a motivação e desempenho, melhorar comunicação | OK |
-| Andrew | Entregas de MDS, melhorando o entendimento do projeto e abrir mais diálogos para melhorar o projeto | Falta de compromisso nessa sprint e comunicação ruim | Melhorar a comunicação na hora da ajuda, dailys presenciais 2 vezes na semana | OK |
-| Maria Luiza | Boas entregas de MDS e documentação de EPS | Falta de sinceridade nas dailys, comunicação ruim, deixar as tarefas para a última hora, comunicação entre EPS ruim, não ter pareamento | Sinceridade nas dailys e nos planejamentos e melhorar comunicação | OK |
-| Natália | Feliz com MDS e EPS e organização pessoal | Procrastinação das tarefas, EPS está falhando no gerenciamento, semana estressante e o prazo curto | Melhorar a comunicação e falar com sinceridade, trabalhar em conjunto, fazer as coisas durante a sprint e não no final | Não (histórias de MDS) |
-| Isabella | Conseguiu fazer a maior parte do planejado | Comunicação ruim e MDS teve dificuldade com as telas | Melhorar a motivação | OK |
-| Luiza | Conseguiu entregar o planejado e pareamento | Dificuldade com o Android Studio, comunicação, organização pessoal não foi boa | Melhorar a comunicação e a organização pessoal | Não (8 pontos) |
-| Gabriel | Entregas de MDS, evolução com o Android Studio e kotlin | Não teve pareamento, comunicação | Melhorar na comunicação e organização pessoal | Não (13 pontos) |
-| Erick | Organização pessoal e conseguiu adiantar terça, tela funcionar, pareamento bom  | Comunicação e divisão de tarefas entre MDS, clareza nas atividades, novas tecnologias e falta de familiariedade | Melhorar a comunicação | Não (8 pontos) |
-| João Gabriel | Conseguiu entregar as atividades planejadas | Organização pessoal ruim, dificuldade com o Android Studio, falta de pareamento, comunicação ruim | Orgnaizar melhor o pareamento e comunicação, deixar claro o que foi feito | Não (13 pontos) |
-| João Paulo | Conseguiu entregar as atividades e pareamento bom | Organizar melhor o pareamento e as agendas, falta de comunicação, falta de organização pessoal | Melhorar a comunicação, organizar o pareamento no início da semana | Não (8 pontos) |
+| Adrianne | EPS conseguiu dar treinamentos  | Não tínhamos tema e estávamos perdidos com relação ao escopo | Não se aplica | OK |
+| Andrew | A equipe estava presente nos treinamentos | Não ter uma tecnologia definida o que atrasou os estudos | Não se aplica | OK |
+| Maria Luiza | Definição das equipes | Não ter tema definido e nem tecnologia | Não se aplica | OK |
+| Isabella | Treinamentos produtivos | Perdida em relação a disciplina | Não se aplica | OK |
+| Luiza | Conseguir um grupo de EPS, treinamentos produtivos | Demora na definição de tema, o que causou o atraso, não gostei do BOT do telegram da Daily| Não se aplica | OK |
 
+### Grupo 3
+
+| Membro | Pontos Positivos | Pontos Negativos | Sugestão de Melhoria | Pontuação das Histórias |
+| --------  | :----:   | :----:   | :----:   | :----:   |
+| Adrianne | EPS conseguiu dar treinamentos  | Não tínhamos tema e estávamos perdidos com relação ao escopo | Não se aplica | OK |
+| Andrew | A equipe estava presente nos treinamentos | Não ter uma tecnologia definida o que atrasou os estudos | Não se aplica | OK |
+| Maria Luiza | Definição das equipes | Não ter tema definido e nem tecnologia | Não se aplica | OK |
+| Isabella | Treinamentos produtivos | Perdida em relação a disciplina | Não se aplica | OK |
+| Luiza | Conseguir um grupo de EPS, treinamentos produtivos | Demora na definição de tema, o que causou o atraso, não gostei do BOT do telegram da Daily| Não se aplica | OK |
+
+### Grupo 4
+
+| Membro | Pontos Positivos | Pontos Negativos | Sugestão de Melhoria | Pontuação das Histórias |
+| --------  | :----:   | :----:   | :----:   | :----:   |
+| Guilherme S. | Melhor organização dos grupos | Atraso na entrega dos requisitos | Maior atenção aos prazos de entrega | OK |
+| Arthur T. | Melhor comunicação entre o grupos | Falta de Community Standards |  | OK |
+| Thiago O. | Definição das tarefas efetiva | Atraso na entrega dos requisitos | Dedicação dos grupos com o projeto | OK |
+| Thiago V. | Melhor organização pessoal no projeto | Atraso na definição da linguagem usada | Maior atenção aos prazos de entrega | OK |
+| Matheus F. |  |  |  | OK |
+| Pedro A. | Melhor colaboração entre os grupos | Falta de reuniões de capacitação | Melhorar o planejamento da sprint | OK |
+| João P. |  |  |  | OK |
 
 
 ## 1.6 Quadro de conhecimento
