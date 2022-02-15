@@ -1,21 +1,42 @@
 # Planejamento SPRINT 0
 
-**Data de início**: 19/08/2019 <br/>
-**Data de fim**: 31/08/2019 <br/>
-**Duração**: 2 semana <br/>
-**Pontuação**: 24 pontos
+**Data de início**: 18/08/2019 <br/>
+**Data de fim**: 25/08/2019 <br/>
+**Duração**: 1 semana <br/>
+**Pontuação**: 15 pontos
 
 ## 1. Objetivo
 
-Planejamento dos meios de comunicação, treinamentos básicos para MDS e explicações iniciais do andamento do projeto e das matérias. **A pontuação utilizada será baseada na escala Fibonacci ( 1, 2, 3, 5, 8, 13)**
+Escolha dos grupos, Planejamento dos meios de comunicação, explicações iniciais do andamento do projeto e das matérias. **A pontuação utilizada será baseada na escala Fibonacci ( 1, 2, 3, 5, 8, 13)**
 
 
 ## 2. Papéis 
 
-* **Scrum Master:** Maria Luiza
-* **Product Owner:** Adrianne Alves
-* **Devops:** Andrew Lucas
-* **Architect:** Natália Maria
+#### Grupo 1
+**Usuário** | **Descrição**
+--- | ---
+_Scrum Master_ | Laura Pinos de Oliveira
+_Product Owner_ | Caio César Oliveira
+Arquiteto de Software | Lucas Henrique Lima de Queiroz
+DevOps | Vitor Eduardo Kühl Rodrigues
+Desenvolvedor | Matheus Costa Gomes
+_Designer_ | Letícia Assunção Aires Moreira
+
+#### Grupo 3
+**Usuário** | **Descrição**
+--- | ---
+_Scrum Master_ | Matheus Pimentel Leal
+_Product Owner_ | Adne Moretti Moreira
+Arquiteto de Software | Guilherme Barbosa Ferreira
+DevOps | Gabriel Mariano da Silva
+Desenvolvedor | Liander Medeiros Alves <br />Gabriel Moretti de Souza
+
+#### Grupo 4
+**Usuário** | **Descrição**
+--- | ---
+_Scrum Master_ | Mateus Vinícius Ferreira Franco
+_Product Owner_ | Pedro Augusto Santos Siqueira
+Desenvolvedor | Guilherme dos Santos Araújo <br  /> Thiago Oliveira Cunha <br  /> João Paulo da Silva Freitas <br  /> Arthur Taylor de Jesus Popov <br  /> Thiago Vivian Bastos
 
 
 ## 3. Backlog da Sprint 0
@@ -23,15 +44,9 @@ Planejamento dos meios de comunicação, treinamentos básicos para MDS e explic
 ### Overview
 | Atividade | Pontuação | Responsável | Dívida |
 | -------- | :----: | :----: | :----: |
-| [S01 - Treinamento de Git](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/1) | 3 | Natália |Não|
-| [S02 - Treinamento de Práticas Ágeis ](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/2) | 2 | Maria Luiza |Não|
-| [S03 - Treinamento de Técnicas de Programação](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/3) | 2 | Adrianne |Não|
-| [S07 - Estudo sobre o Papel de Product Owner ](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/4) | 5 | Adrianne |Não|
-| [S06 - Estudo sobre Arquitetura de Microsserviços ](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/6) | 2 | Natália |Não|
-| [S05 - Estudo sobre o Papel de Arquiteto](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/5) | 2 | Natália |Não|
-| [S08 - Treinamento de Gitflow ](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/13) | 2 | Natália |Não|
-| [S04 - Documentação Básica do Projeto](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/9) | 2 | Adrianne e Maria Luiza |Não|
-| [S09 - Treinamento de Docker](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/14) | 2 | Andrew |Não|
-| [S10 - Treinamento de Bancos de Dados](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/15) | 2 | Andrew e Natália |Não|
+| [S01 - Pesquisa sobre as ferramentas usadas na matéria ](https://github.com/fga-eps-mds/Projeto01/issues/1) | 5 | Grupo 4 |Não|
+| [S05 - Pesquisa sobre as Metodologias usadas na matéria](https://github.com/fga-eps-mds/Projeto01/issues/5) | 5 | Grupo 3 |Não|
+| [S06 - Pesquisa sobre os documentos usados no relatório ](https://github.com/fga-eps-mds/Projeto01/issues/6) | 5 | Grupo 3 |Não|
+
 
 
