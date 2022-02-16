@@ -67,12 +67,9 @@ Zenhub não criado no momento dessa sprint
 
 # 2. Visão do Tech Leader
 
-Foi planejado para essa sprint 30 pontos e só foi concluído 12 pontos, evidenciado no Velocity. Isso serviu de bastante aprendizado para a equipe, visto que várias das atividades planejadas não foram concluídas, o que resultou em métricas críticas para o projeto. Esse fato ocorreu devido a instabilidade e a falta de entendimento do projeto por parte da equipe.
+Para esta sprint foram planejados 25 pontos e todos foram concluídos, com isso os documentos de arquitetura, visão e o termo de abertura do projeto foram começados. Nessa sprint foi continuado as pesquisas das tecnologias que serão utilizados no decorrer do projeto.
 
-A história [D05 - Fazer Protótipo de Baixa Fidelidade](https://github.com/fga-eps-mds/2019.2-Grupo2/issues/12) foi cancelada, devido a não necessidade de protótipo de baixa fidelidade, visto que a ideia e as telas do cliente já estavam bem consolidadas. O que resultou na decisão de cancelar essa tarefa.	
+Mesmo com todos os pontos planejados concluídos a comunicação entre as equipes ainda foi de certa forma deficiente, com os grupos se reunindo, mas não conseguindo colocar as ideias de forma correta.
+  
+As praticas da metodologia SCRUM foram atendidas com a comunicação rápida e diária sendo feita através de um canal no Telegram e uma reunião no inicio da sprint para definir as tarefas de cada grupo.
 
-A reunião com o cliente ocorreu no meio da sprint, o que dificultou a iniciação das tarefas tanto por parte da equipe de MDS, quanto da equipe de EPS. Este fato resultou no Burndown, onde a equipe só conseguiu realizar as tarefas no último dia. 
-
-Outro ponto crítico indicado pelos membros da equipe foi a comunicação dentro da equipe. Visto que não estava havendo muita interação entre os membros de EPS e MDS. 
-
-As práticas ágeis foram aplicadas, com reuniões diárias via Telegram e reuniões semanais de planejamento ocorrida no início da sprint. Além das reuniões de retrospectiva e revisão ocorridas no final da sprint. Essas reuniões ocorrem todos os sábados presencialmente. 
