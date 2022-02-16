@@ -1,7 +1,7 @@
 
 
 # Termo de Abertura 
-- [Histórico de Versões](#Hist%C3%B3rico-de-Vers%C3%B5es)
+- [Histórico de Versões](#_Hist%C3%B3rico-de-Vers%C3%B5es)
   - [1. Introdução](#_1-Introdu%C3%A7%C3%A3o)
   - [2. Descrição](#_2-Descri%C3%A7%C3%A3o)
   - [3. Propósito e Justificativa](#_3-Prop%C3%B3sito-e-Justificativa)
