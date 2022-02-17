@@ -71,5 +71,5 @@ Para esta sprint foram planejados 25 pontos e todos foram concluídos, com isso 
 
 Mesmo com todos os pontos planejados concluídos a comunicação entre as equipes ainda foi de certa forma deficiente, com os grupos se reunindo, mas não conseguindo colocar as ideias de forma correta.
   
-As praticas da metodologia SCRUM foram atendidas com a comunicação rápida e diária sendo feita através de um canal no Telegram e uma reunião no inicio da sprint para definir as tarefas de cada grupo.
+As práticas da metodologia SCRUM foram atendidas com a comunicação rápida e diária sendo feita através de um canal no Telegram e uma reunião no início da sprint para definir as tarefas de cada grupo.
 
