@@ -66,8 +66,8 @@ Zenhub não criado no momento dessa sprint
 
 
 # 2. Visão do Tech Leader
-Foi planejado 36 pontos e todos eles foram concluídos. Essa sprint foi de bastante valia, onde a equipe conseguiu amadurecer mais o escopo, já que foi feita a documentação necessária para a iniciação do projeto, além da iniciação de código. Porém, a equipe continuou realizando as tarefas de forma tardia, como é evidenciado no Burndown, o que mostra que os membros não tiveram disponibilidade de realizar as suas tarefas ao longo da sprint, acumulando tudo para o final. 
+Nesta sprint foram planejados 22 pontos apesar do planejamento foram concluídos apenas 17 pontos, ficando com uma divida de 5 pontos para a próxima sprint. Nesta sprint foi finalizado as pesquisas e definido as tecnologias que serão utilizadas no front-end e no back-end, foi criado e organizado o zenhub do projeto, e também foi dado início ao documento de EAP. A criação de do documento de requisitos funcionais ficou atrasado devido a falha de comunicação entre as equipes juntamente com a realização tardia das tarefas.
 
-Outro ponto crítico que persistiu entre a sprint passada e essa foi a falha na comunicação da equipe, prejudicando a realização das tarefas. Além da curva de aprendizagem alta de Kotlin, visto que foi o primeiro contato com o código dentro do projeto.
+Como já falado houve uma falta de comunicação entre os grupos novamente, apesar de ter acontecido uma melhora ainda foi deficiente, e parte das equipes ainda deixou as tarefas para serem realizadas no final da sprint, comprometendo assim a produtividade dos grupos.
 
-As práticas ágeis foram aplicadas, com reuniões diárias via Telegram e reuniões semanais de planejamento ocorrida no início da sprint. Além das reuniões de retrospectiva e revisão ocorridas no final da sprint. Essas reuniões ocorrem todos os sábados presencialmente. 
+As práticas da metodologia SCRUM foram atendidas com a comunicação rápida e diária sendo feita através de um canal no Telegram e uma reunião no início da sprint para definir as tarefas de cada grupo.
