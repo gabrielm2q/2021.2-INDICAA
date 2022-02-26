@@ -4,7 +4,7 @@
 
 * **Projeto**
 * [Post Mortem](/documentation/post-mortem.md)
-* [Termo de Abertura do Projeto](/abertura/open-term-project.md)
+* [Termo de Abertura do Projeto](/abertura/termo_de_abertura.md)
 * [Estrutura Analítica do Projeto](/abertura/eap.md)
 * [Roadmaps](/roadmaps/)
 * [Metodologia](/metodology/)
