@@ -1,18 +1,4 @@
 # Termo de Abertura 
-- [Histórico de Versões](#_Hist%C3%B3rico-de-Vers%C3%B5es)
-- [Siglas](#_Siglas)
-  - [1. Introdução](#_1-Introdu%C3%A7%C3%A3o)
-  - [2. Descrição](#_2-Descri%C3%A7%C3%A3o)
-  - [3. Propósito e Justificativa](#_3-Prop%C3%B3sito-e-Justificativa)
-  - [4. Objetivos](#_4-Objetivos)
-  - [5. Partes Interessadas](#_5-Partes-Interessadas)
-    - [5.1 Usuários](#_5.1-Usu%C3%A1rios)   
-    - [5.2 Equipes e papéis](#_5.2-Equipes-e-pap%C3%A9is)
-  - [6. Requisitos de Alto Nível](#_6-Requisitos-de-Alto-N%C3%ADvel)
-  - [7. Riscos](#_7-Riscos)
-  - [8. Requisitos para a aprovação](#_8-Requisitos-para-a-aprova%C3%A7%C3%A3o)
-  - [9. Estratégias de comunicação](#_9-Estrat%C3%Agias-de-comunica%C3%A7%C3%A3o)
-  - [10. Referências](#_9-Refer%C3%AAncias)
 
 ## 1. Introdução
 Este documento visa informar as principais características do projeto **INDICAA** de forma concisa e clara para a leitura de todos os interessados no projeto e nas suas etapas de execução e decisão. Abaixo serão tratados os seguintes tópicos relacionados a este projeto: descrição, propósito e justificativa, objetivos, partes interessadas (usuários e envolvidos no desenvolvimento), requisitos de alto nível, análise de riscos, requisitos para a aprovação seguindo a definition of done estabelecida e estratégias de comunicação.
