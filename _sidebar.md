@@ -23,7 +23,7 @@
 * [Estrutura de Branches e Padrões](/branches-structure.md)
 * [Folha de Estilo](/style-sheet.md)
 * [Documento de Arquitetura](/documentation/architecture.md)
-* [Documento de Visão](/documentation/vision.md)
+* [Documento de Visão](/documentation/documento_de_visao.md)
 * [Protótipos](/prototype.md)
 * [Teste de Usabilidade](/usability/5-acts-interview.md)
     - [Resultados](/usability/5-acts-results.md)
