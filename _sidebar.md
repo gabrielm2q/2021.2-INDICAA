@@ -20,10 +20,13 @@
     - [Técnica de Brainstorm](./elicitacao/brainstorm.md)   
     - [Observação por Instrospecção](./elicitacao/introspection.md) 
 * [Backlog](/product-backlog.md)
-* [Estrutura de Branches e Padrões](/branches-structure.md)
+* [Estrutura de Branches e Padrões](/branches-starchitectureructure.md)
 * [Folha de Estilo](/style-sheet.md)
 * [Documento de Arquitetura](/documentation/documento_de_arquitetura.md)
 * [Documento de Visão](/documentation/documento_de_visao.md)
 * [Protótipos](/prototype.md)
 * [Teste de Usabilidade](/usability/5-acts-interview.md)
     - [Resultados](/usability/5-acts-results.md)
+
+* **Contribuição**
+    * [Código de Conduta](/documentation/code_of_conduct.md)
