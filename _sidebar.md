@@ -20,7 +20,7 @@
     - [Técnica de Brainstorm](./elicitacao/brainstorm.md)   
     - [Observação por Instrospecção](./elicitacao/introspection.md) 
 * [Backlog](/product-backlog.md)
-* [Estrutura de Branches e Padrões](/branches-starchitectureructure.md)
+* [Estrutura de Branches e Padrões](/branches-structure.md)
 * [Folha de Estilo](/style-sheet.md)
 * [Documento de Arquitetura](/documentation/documento_de_arquitetura.md)
 * [Documento de Visão](/documentation/documento_de_visao.md)
