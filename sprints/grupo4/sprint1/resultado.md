@@ -28,27 +28,7 @@ Zenhub não criado no momento dessa sprint
 
 ## 1.4 Retrospectiva 
 
-### Grupo 1
 
-| Membro | Pontos Positivos | Pontos Negativos | Sugestão de Melhoria | Pontuação das Histórias |
-| --------  | :----:   | :----:   | :----:   | :----:   |
-| Adrianne | EPS conseguiu dar treinamentos  | Não tínhamos tema e estávamos perdidos com relação ao escopo | Não se aplica | OK |
-| Andrew | A equipe estava presente nos treinamentos | Não ter uma tecnologia definida o que atrasou os estudos | Não se aplica | OK |
-| Maria Luiza | Definição das equipes | Não ter tema definido e nem tecnologia | Não se aplica | OK |
-| Isabella | Treinamentos produtivos | Perdida em relação a disciplina | Não se aplica | OK |
-| Luiza | Conseguir um grupo de EPS, treinamentos produtivos | Demora na definição de tema, o que causou o atraso, não gostei do BOT do telegram da Daily| Não se aplica | OK |
-
-### Grupo 3
-
-| Membro | Pontos Positivos | Pontos Negativos | Sugestão de Melhoria | Pontuação das Histórias |
-| --------  | :----:   | :----:   | :----:   | :----:   |
-| Adrianne | EPS conseguiu dar treinamentos  | Não tínhamos tema e estávamos perdidos com relação ao escopo | Não se aplica | OK |
-| Andrew | A equipe estava presente nos treinamentos | Não ter uma tecnologia definida o que atrasou os estudos | Não se aplica | OK |
-| Maria Luiza | Definição das equipes | Não ter tema definido e nem tecnologia | Não se aplica | OK |
-| Isabella | Treinamentos produtivos | Perdida em relação a disciplina | Não se aplica | OK |
-| Luiza | Conseguir um grupo de EPS, treinamentos produtivos | Demora na definição de tema, o que causou o atraso, não gostei do BOT do telegram da Daily| Não se aplica | OK |
-
-### Grupo 4
 
 | Membro | Pontos Positivos | Pontos Negativos | Sugestão de Melhoria | Pontuação das Histórias |
 | --------  | :----:   | :----:   | :----:   | :----:   |
@@ -62,7 +42,8 @@ Zenhub não criado no momento dessa sprint
 
 
 ## 1.6 Quadro de conhecimento
-![](../../images/metrics_agile/quadro_conhecimento_sprint1.png)
+
+![](https://raw.githubusercontent.com/fga-eps-mds/2021.2-INDICAA/main/docs/atas/grupo4/img_conhecimento/quadro_conhecimento_sprint1.png)
 
 
 # 2. Visão do Tech Leader
