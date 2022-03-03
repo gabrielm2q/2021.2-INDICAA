@@ -29,4 +29,6 @@
     - [Resultados](/usability/5-acts-results.md)
 
 * **Contribuição**
+    * [Como contribuir](/documentation/contributing.md)  
     * [Código de Conduta](/documentation/code_of_conduct.md)
+    
