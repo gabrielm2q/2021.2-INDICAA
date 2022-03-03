@@ -4,6 +4,6 @@
 
 -  Sprints
 
-    - Sprint 0(/sprints/grupo4/sprint0/) 
+    - [Sprint 0](/sprints/grupo4/sprint0/) 
 
  
