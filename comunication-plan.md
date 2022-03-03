@@ -17,7 +17,7 @@ Esse plano tem o objetivo de definir as ferramentas para suprir as necessidades 
 
 ## Telegram <img src="./images/logos/telegram-logo.png" width="25"/>
 
-* Principal meio de comunicação entre o time, tanto de MDS quanto de EPS
+* Principal meio de comunicação entre os times
 * Para comunicação instantânea entre os membros da equipe 
 * Para realização das dailies (Auxílio de Bot)
 * Para auxílio dos membros com relação a dificuldades e dúvidas das tarefas 
@@ -34,18 +34,13 @@ Esse plano tem o objetivo de definir as ferramentas para suprir as necessidades 
 * Visualizar o Kanban para facilitar a visualização do andamento das tarefas, bem como suas pontuações
 * Gerar gráficos de produtividade da equipe 
 
-## Google Hangouts <img src="./images/logos/google-hangouts-logo.png" width="25"/>
+## Discord <img src="./images/logos/discord-logo.png" width="25"/>
 
-* Utilizado para reuniões entre EPS
+* Utilizado para reuniões entre os Squads
 * Utilizado para os pareamentos entre a equipe de desenvolvimento
 * Utilizado para tirar dúvidas das tarefas
 * Utilizado para alinhamento da equipe
 
-## Google Drive <img src="./images/logos/google-drive-logo.png" width="25"/>
-
-* Armazenamento de documentos
-* Planilhas de pareamento, horas, quadro de conhecimento e gráficos 
-* Utilizado para elaboração de documentos colaborativamente 
 
 # Rituais 
 
@@ -63,4 +58,4 @@ Reuniões semanais, com timeboxed (duração de no máximo 3h30), para a realiza
 
 | Data | Versão | Autor(a) | Descrição |
 | - | - | - | - |
-| 26/09/2019 | 0.1 |Maria Luiza | Criação do plano de comunicação do projeto |
+| 03/03/2022 | 0.1 |Guilherme Santos | Criação do plano de comunicação do projeto |
