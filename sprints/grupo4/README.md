@@ -6,8 +6,8 @@
     
     - Sprint 0
     
-        - [Planejamento](/sprints/grupo4/sprint0/Planejamento.md) 
-        - [Resultado](/sprints/grupo4/sprint0/Resultado.md) 
+        - [Planejamento](/sprints/grupo4/sprint0/planejamento.md) 
+        - [Resultado](/sprints/grupo4/sprint0/resultado.md) 
     
 
  
