@@ -3,7 +3,11 @@
 * [Início](/)
 
 -  Sprints
-
-    - [Sprint 0](/sprints/grupo4/sprint0/) 
+    
+    - Sprint 0
+    
+        - [Planejamento](/sprints/grupo4/sprint0/Planejamento.md) 
+        - [Resultado](/sprints/grupo4/sprint0/Resultado.md) 
+    
 
  
