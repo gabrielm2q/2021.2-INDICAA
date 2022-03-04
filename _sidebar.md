@@ -18,7 +18,7 @@
 * [Entrega Contínua](/documentation/continuous-delivery.md)
 -->
 * **Produto**
-* <!--
+<!--
 * [Plano de Elicitação](/elicitation-plan.md)
     - [Mapa de Empatia](./elicitacao/empathy-map.md)
     - [Técnica de Brainstorm](./elicitacao/brainstorm.md)   
