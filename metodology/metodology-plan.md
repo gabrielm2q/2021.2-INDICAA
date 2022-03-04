@@ -1,7 +1,7 @@
 ## Metodologia
 <hr>
 
-A metodologia aplicada no projeto Over26 consiste na junção de aspectos e princípios do framework Scrum, Extreme Programming e kanban. As técnicas selecionadas para dar origem à metodologia híbrida utilizada, foram:  
+A metodologia aplicada no projeto Indicaa consiste na junção de aspectos e princípios do framework Scrum, Extreme Programming e kanban. As técnicas selecionadas para dar origem à metodologia híbrida utilizada, foram:  
 
 - [1. Papéis](#_1-Papéis)
 - [2. Rituais](#_2-Rituais)
@@ -34,40 +34,39 @@ Responsável por programar as histórias de usuário; Seguir técnicas de progra
 ## 2. Rituais
 
 * Sprints
-    - Duração de 7 dias : Início no domingo e término no sábado da outra semana.
+    - Duração de 7 dias : Início na terça e término na segunda da outra semana.
     - Poderão ser menores devido as releases : Mais curtas ou longas, conforme decisão do Scrum Master.
-* Daily Meeting
-    - As dailies da equipe serão realizadas diariamente por meio do telegram, prioritariamente no período da manhã. Todos os membros têm como obrigação informar a respeito do andamento das suas atividades.
+* Meeting
+    - As reuniões das equipes serão realizadas terça, quinta e sábado por meio do discord, prioritariamente no período da noite. Todos os membros têm como obrigação informar a respeito do andamento das suas atividades.
 * Sprint Review
-    - Ocorrerão aos sábados, iniciando às 14h 
+    - Ocorrerão as terças, iniciando às 20h 
 * Sprint Restropective
-    - Ocorrerá aos sábados, iniciando às 15:30h
+    - Ocorrerão as terças, iniciando às 20:30h 
 * Sprint Planning
-    - Será realizado nas reuniões de sábado
+    - Será realizado nas reuniões de terça, após o review e restrospective
 
 
 ## 3. Planejamento
 
 * Issues 
-    - As issues serão criadas para todos os tipos de contribuição com o projeto, a fim de registrar o trabalho da equipe. Ainda com esse objetivo, o uso de labels servirão identificar facilmente : O responsável e o tipo de atividade relacionada. 
+    - As issues serão criadas para todos os tipos de contribuição com o projeto, a fim de registrar o trabalho da equipe. Ainda com esse objetivo, o uso de labels servirão identificar facilmente o squad responsável, o membro responsável e o tipo de atividade relacionada. 
     - As labels utilizadas até o momento, são: 
-        - Architecture
         - Bug
-        - Devops
+        - Development
         - Documentation
+        - Duplicate
         - Enhancement
-        - EPS
-        - MDS
-        - Meetings
-        - Planning
-        - PO
+        - Epic
+        - Grupo 1
+        - Grupo 3
+        - Grupo 4
+        - Help Wanted
+        - Invalid
         - Question
-        - Scrum Master
-        - Spike
-        - Technical Story
-        - TechnicalT
-        - StoryUS 
+        - Pesquisa
+        - Training
         - Wontfix
+       
         
 * Milestones
 
