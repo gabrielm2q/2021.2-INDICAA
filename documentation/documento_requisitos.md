@@ -1,9 +1,10 @@
-# Histórico de alterações
-| **Data**   	| **Versão** 	| **Modificação**                                                  	| **Autor(es)**              	|
-|------------	|------------	|------------------------------------------------------------------	|----------------------------	|
+## Histórico de versões
+
+|Data|Versão|Descrição|Autor|
+|-|-|-|-|
 | 08/02/2022 	|     0.1    	| Criação do documento de requisitos                              	| Caio Oliveira             	|
 | 12/02/2022 	|     0.2    	| Inclusão de requisitos funcionais e não funcionais                | Aberto a todos              |
-| 13/02/2022 	|     0.3    	| Revisão e filtragem dos requisitos                                | Adne M., Laura P. e Pedro S.|
+| 13/02/2022 	|     0.3    	| Revisão e filtragem dos requisitos                                | Adne M., Laura P. e Pedro S.
 
 ## 1. Introdução
 Este documento conterá as descrições sucintas dos requisitos funcionais e não funcionais do sistema, sem especificação de prioridade.<br /> O documento está passível à futuras alterações, caso seja identificada a necessidade.
@@ -42,4 +43,3 @@ Requisitos de software são atribuições que o mesmo deve executar, de modo a s
 | RNF8     	| O sistema deve ser responsivo                                                                                 |
 | RNF9     	| O sistema deve armazenar dados em um banco de dados                                                           |
 
-- [Versão 1](https://github.com/fga-eps-mds/Projeto01/issues/17#issuecomment-1032683760)
