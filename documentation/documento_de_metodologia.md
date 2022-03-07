@@ -22,6 +22,7 @@ Para a viabilização e o efetivo desenvolvimento do projeto serão utilizadas m
 
 ### 2.1 Scrum
 > "A estrutura do Scrum procura aproveitar a maneira como as equipes de fato trabalham, fornecendo ferramentas para se auto-organizarem e otimizarem em pouco tempo a rapidez e a qualidade do trabalho." Scrum: a arte de fazer o dobro do trabalho na metade do tempo, 2016
+
 #### 2.1.1 Product Backlog
 Lista emergente e ordenada do que é necessário para o desenvolvimento e melhora do produto. Nele contém as funcionalidades à serem implementadas, alterações em funcionalidades já existentes e correções de falhas. Mudanças no Product Backlog devem sempre ser um processo colaborativo e serem realizadas em todas as etapas da construção do produto.
 
@@ -42,6 +43,7 @@ Lista emergente e ordenada do que é necessário para o desenvolvimento e melhor
 
 #### 2.1.4 Time-Box
 > "O Timebox é uma estratégia de gestão do tempo baseada em metas que ajuda a aumentar a produtividade e a reduzir a procrastinação. Quando se cria uma “caixa de tempo”, em tradução livre, também se define uma meta para que uma determinada tarefa seja realizada dentro de um intervalo predefinido." [Asana, 2021](https://asana.com/pt/resources/what-is-timeboxing)
+
  __Sprints:__
   
   Duração de 7 dias : Início na terça e término na segunda da outra semana. Poderão ser menores devido às releases : Mais curtas ou longas, conforme decisão do Scrum Master.
@@ -54,6 +56,7 @@ Obs.: Por motivos externos ou decisão dos Scrum Masters, os processos citados n
 
 ### 2.2 Kanban
 > "A palavra japonesa 'kanban', que significa 'placa visual'."
+
 Utilizaremos como um método de gerenciamento de fluxo de trabalho para definir, gerenciar e melhorar processos que fornecem trabalho de conhecimento, objetivando a visualização rápida do trabalho à ser realizado e a maximização da eficiência e produtividade.
 
 Utilizaremos quadros Kanban para visualização do progresso do trabalho com as seguintes colunas: 
@@ -66,6 +69,7 @@ Utilizaremos quadros Kanban para visualização do progresso do trabalho com as 
 - __Done:__ Lista de funcionalidades já desenvolvidas.
 ### 2.3 Extreme Programming (XP)
 > "XP é um apelido carinhoso de uma nova metodologia de desenvolvimento designada Extreme Programming, com foco em agilidade de equipes e qualidade de projetos, apoiada em valores como simplicidade, comunicação, feedback e coragem [...]".  [DevMedia](https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498)
+
 O Extreme Programming (XP) é uma metodologia ágil que visa o desenvolvimento de sistemas que entreguem o que é pedido pelo cliente, melhorando também o ambiente de trabalho dos desenvolvedores, de modo a propiciar a realização de trabalhos simples e de qualidade.
 Dentre os pilares do XP, estão a **simplicidade**, a **comunicação**, o **feedback**, **respeito** e a **coragem** (de dizer "não").
 
@@ -79,6 +83,7 @@ Poderão ser utilizadas pelas equipes as seguintes práticas:
 
 ### 2.4 Planning Poker
 > "O Planning Poker é uma técnica gamificada baseada em consenso para estimativa, usada principalmente para timeboxing em princípios ágeis. No pôquer de planejamento, os membros do grupo fazem estimativas jogando cartas numeradas viradas para baixo na mesa, em vez de pronunciá-las em voz alta. As cartas são reveladas e as estimativas são então discutidas. Ao ocultar os números dessa maneira, o grupo pode evitar o viés cognitivo da ancoragem , onde o primeiro número falado em voz alta abre um precedente para estimativas subsequentes." [Wikipédia, 2022](https://en.wikipedia.org/wiki/Planning_poker)
+
 No nosso projeto utilizamos como referência a sequência de Fibonacci.
 
 ## 3. Plano de Comunicação
