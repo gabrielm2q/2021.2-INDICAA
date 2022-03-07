@@ -5,15 +5,12 @@
 * **Projeto**
     * [Termo de Abertura do Projeto](/abertura/termo_de_abertura.md)
     * [Estrutura Analítica do Projeto](/abertura/eap.md)
-    * [Roadmaps](/roadmaps/)
     * [Metodologia](/documentation/documento_de_metodologia)
     * [Gerenciamento de Comunicação](/gerencimento_de_comunicacao.md)
-    * [Gerenciamento de Riscos](/risk-manegement.md)
-    * [Burndown de Riscos](/risks-burndown.md)
-    * [Plano de Qualidade](/documentation/quality.md)
-* **Produto**
-    * [Backlog](/product-backlog.md)
+    * [Gerenciamento de Riscos](/documentation/gerencimento_de_riscos.md)
     * [Estrutura de Branches](/documentation/guia_Branching.md)
+* **Produto**
+    * [Documento de Requisitos](/documentation/documento_requisitos.md)
     * [Documento de Arquitetura](/documentation/documento_de_arquitetura.md)
     * [Documento de Visão](/documentation/documento_de_visao.md)
     * [Protótipos](/prototype.md)
