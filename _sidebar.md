@@ -1,4 +1,4 @@
-* [Início](/)
+﻿* [Início](/)
 
 * [Sprints](/sprints/)
 
@@ -14,8 +14,6 @@
     * [Documento de Arquitetura](/documentation/documento_de_arquitetura.md)
     * [Documento de Visão](/documentation/documento_de_visao.md)
     * [Protótipos](/prototype.md)
-
 * **Contribuição**
     * [Como Contribuir](/documentation/contributing.md)  
     * [Código de Conduta](/documentation/code_of_conduct.md)
-
