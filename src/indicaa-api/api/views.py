@@ -18,8 +18,8 @@ class UnidadeViewSet(viewsets.ModelViewSet):
         for item in resultado["materia"]:
             for i in item["turmas"]:
                 turma.append(TurmaSerializer(
-                    professor=i.professor,
-                    codigoTurma=i.codigoTurma,
+                    professor=i["professor"],
+                    codigoTurma=i["codigoTurma"],
                     vagasOcupadas= i.vagasOcupadas,
                     vagasOfertadas=i.vagasOfertadas,
                     local=i.local,
