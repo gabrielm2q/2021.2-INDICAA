@@ -1,7 +1,7 @@
 # As seguintes importacoes podem ser utilizadas futuramente 
 from pydoc import classname
 # Essas dependências importadas foram utilizadas no decorrer do código
-from api.services import IndicaaServices
+# from api.services import IndicaaServices
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from selenium import webdriver
@@ -67,18 +67,33 @@ def percorreTurmas(atualSoma, soma, materia, codigoMateria):
     professor, cargahoraria = turma.split(" (")
     cargahoraria, _ = cargahoraria.split(")") 
 
-    indicaa = IndicaaServices()
-    indicaa.criar_turma(professor, codigoTurma, vagasOcupadas, vagasOfertadas, local, horario, semestre, ano, materia)
-    indicaa.atualizar_materia(codigoMateria, cargahoraria)
+    turma = {
+                "professor": professor,
+                "codigoTurma":codigoTurma,
+                "vagasOcupadas":vagasOcupadas,
+                "vagasOfertadas":vagasOfertadas,
+                "local": local,
+                "horario":horario,
+                "semestre": semestre,
+                "ano": ano
+    }
+    return turma
+    # indicaa = IndicaaServices()
+    # indicaa.criar_turma(professor, codigoTurma, vagasOcupadas, vagasOfertadas, local, horario, semestre, ano, materia)
+    # indicaa.atualizar_materia(codigoMateria, cargahoraria)
     
 def alunosPorDisciplina():
-    indicaa = IndicaaServices()
-    unidade = indicaa.criar_unidade("Faculdade do Gama")
+    # indicaa = IndicaaServices()
+    # unidade = indicaa.criar_unidade("Faculdade do Gama")
     atual=0
     atualSoma=0
     atualDisc=0
     soma=0
-    resultado = []
+    # resultado = {
+    #     "nome": "Faculdade do Gama",
+    #     "materias":[]
+    # }
+    materias=[]
     materia_teste = None
     codigoMateria=""
 
@@ -95,25 +110,37 @@ def alunosPorDisciplina():
             conteudo = linhaUsada.get_attribute('innerHTML')
 
             codigoMateria, nome = conteudo.split(" - ")
-            resultado.append({"nome":nome,
-                              "codigoMateria": codigoMateria})
-
+            # resultado.append({"nome":nome,
+            #                   "codigoMateria": codigoMateria})
+            # resultado['materias'].append({
+            #     "nome": nome,
+            #     "codigoMaterias":codigoMateria,
+            # })
             # if atualDisc==0:
             #     atualDisc+=1
             # else:
                 # resultado[atualDisc-1]["matriculados"] = soma
             atualDisc+=1
-                
+            materias.append({
+                "nome": nome,
+                "codigoMaterias":codigoMateria,
+                "turmas": []
+            })   
             soma=0
-            indicaa = IndicaaServices()
-            materia_teste = indicaa.criar_materia(nome, codigoMateria, unidade)
+            # indicaa = IndicaaServices()
+            # materia_teste = indicaa.criar_materia(nome, codigoMateria, unidade)
 
         if linha.get_attribute("class") == 'linhaPar' or linha.get_attribute("class") == 'linhaImpar':
-            percorreTurmas(atualSoma, soma, materia_teste, codigoMateria)
+            # percorreTurmas(atualSoma, soma, materia_teste, codigoMateria, resultado)
+            materias[atualDisc-1]["turmas"].append(percorreTurmas(atualSoma, soma, materia_teste, codigoMateria))
             atualSoma+=1
 
         
         atual+=1
+    resultado = {
+    "nome": "Faculdade do Gama",
+    "materias":materias
+    }   
     # resultado[atualDisc-1]["matriculados"] = soma
     return resultado
     
@@ -133,10 +160,10 @@ def main():
     # vagasOcupadasTotal = vagasOcupadasTurma()
     # print(f'Numero de Alunos encontrados: {vagasOcupadasTotal}')
     materias = alunosPorDisciplina()
-    resultado = {'nome': 'Faculdade do Gama',
-                #  'vagasOcupadasTotal': vagasOcupadasTotal,
-                 'materias': materias}
-    pp.pprint(resultado)
+    # resultado = {'nome': 'Faculdade do Gama',
+    #             #  'vagasOcupadasTotal': vagasOcupadasTotal,
+    #              'materias': materias}
+    # pp.pprint(resultado)
     fecharJanela()
 
 

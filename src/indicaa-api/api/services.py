@@ -2,21 +2,21 @@ from .models import Unidade, Turma, Materia
 
 class IndicaaServices:
 
-    def criar_unidade(self, nomeUnidade):
-        unidade = Unidade.objects.filter(nome=nomeUnidade).last()
+    def criar_unidade(self, unidade):
+        unidade = Unidade.objects.filter(nome=unidade.nome).last()
         if(unidade==None):
             unidade = Unidade.objects.create(
-                nome=nomeUnidade
+                nome=unidade.nome
             )
         return unidade
-    def criar_materia(self, nome, codigoMateria, unidade):
-        materia_teste = Materia.objects.filter(codigoMateria=codigoMateria).last()
+    def criar_materia(self, materia):
+        materia_teste = Materia.objects.filter(codigoMateria=materia.codigoMateria).last()
         if(materia_teste==None):
             materia_teste = Materia.objects.create(
-                nome=nome,
-                codigoMateria=codigoMateria,
+                nome=materia.nome,
+                codigoMateria=materia.codigoMateria,
                 cargaHoraria="",
-                unidade=unidade
+                unidade=materia.unidade
             )
             materia_teste.save()
         return materia_teste
@@ -24,18 +24,18 @@ class IndicaaServices:
     def atualizar_materia(self, codigoMateria, cargahoraria):
         Materia.objects.filter(codigoMateria=codigoMateria).update(cargaHoraria=cargahoraria)
 
-    def criar_turma(self, professor, codigoTurma, vagasOcupadas, vagasOfertadas, local, horario, semestre, ano, materia):
-        turma_teste = Turma.objects.filter(materia=materia, docente=professor, codigoTurma=codigoTurma).last()
+    def criar_turma(self, turma):
+        turma_teste = Turma.objects.filter(docente=turma.professor, codigoTurma=turma.codigoTurma).last()
         if(turma_teste==None):
             turma_teste = Turma.objects.create(
-                docente=professor,
-                codigoTurma=codigoTurma,
-                vagasOcupadas=vagasOcupadas,
-                vagasOfertadas=vagasOfertadas,
-                local=local,
-                horario=horario,
-                semestre=semestre,
-                ano=ano,
-                materia=materia
+                docente=turma.professor,
+                codigoTurma=turma.codigoTurma,
+                vagasOcupadas=turma.vagasOcupadas,
+                vagasOfertadas=turma.vagasOfertadas,
+                local=turma.local,
+                horario=turma.horario,
+                semestre=turma.semestre,
+                ano=turma.ano,
+                materia=turma.materia
             )
             turma_teste.save()
